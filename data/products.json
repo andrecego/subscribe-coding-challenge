@@ -1,0 +1,62 @@
+[
+  {
+    "type": "book",
+    "title": "Book - The Catcher in the Rye",
+    "imported": false,
+    "price": 12.49
+  },
+  {
+    "type": "food",
+    "title": "Chocolate Bar",
+    "imported": false,
+    "price": 0.85
+  },
+  {
+    "type": "misc",
+    "title": "Music CD",
+    "imported": false,
+    "price": 14.99
+  },
+  {
+    "type": "food",
+    "title": "Imported Box of Chocolates",
+    "imported": true,
+    "price": 10.00
+  },
+  {
+    "type": "misc",
+    "title": "Imported Bottle of Perfume - Chanel No. 5",
+    "imported": true,
+    "price": 47.50
+  },
+  {
+    "type": "misc",
+    "title": "Bottle of Perfume",
+    "imported": false,
+    "price": 18.99
+  },
+  {
+    "type": "medical",
+    "title": "Packet of Headache Pills",
+    "imported": false,
+    "price": 9.75
+  },
+  {
+    "type": "misc",
+    "title": "Imported Bottle of Perfume - Dior",
+    "imported": true,
+    "price": 27.99
+  },
+  {
+    "type": "misc",
+    "title": "Bottle of Perfume - Jequiti",
+    "imported": false,
+    "price": 18.99
+  },
+  {
+    "type": "food",
+    "title": "Imported Box of Chocolates",
+    "imported": true,
+    "price": 11.25
+  }
+]
